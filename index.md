@@ -1,5 +1,5 @@
 ---
-title: nurzhan sakenov
+title: home
 layout: home
 permalink: /
 ---
